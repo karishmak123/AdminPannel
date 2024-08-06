@@ -13,7 +13,7 @@ const OrderSummury = () => {
                     <div className="stat-title">Total Orders</div>
                     <div class="d-flex justify-content-between align-items-center">
                         <div class="data"> 75 </div>
-                        <div class="text-success percentage ms-4"> ▼ 3%</div>
+                        <div class="text-success percentage ms-4">▲ 3%</div>
                     </div>
                 </div>
             </div>
@@ -33,7 +33,7 @@ const OrderSummury = () => {
                     <div className="stat-title">Total Cancelled</div>
                     <div class="d-flex justify-content-between align-items-center">
                         <div class="data">05</div>
-                        <div className="text-success percentage ms-4">▼ 3%</div>
+                        <div className="text-success percentage ms-4">▲ 3%</div>
                     </div>
                 </div>
             </div>

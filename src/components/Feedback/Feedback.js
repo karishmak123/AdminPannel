@@ -6,13 +6,13 @@ const feedbackData = [
     name: "Jenny Wilson",
     image: "/image/demo-image.jpg",
     rating: 4.5,
-    feedback: "The food was excellent and so was the service, I had the mushroom risotto with scallops which was awesome, I had a burger over greens (gluten-free) which was also very good. They were very conscientious about gluten allergies."
+    feedback: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
   },
   {
     name: "Dianne Russell",
     image: "/image/demo-image.jpg",
     rating: 4.0,
-    feedback: "We enjoyed the Eggs Benedict served on homemade focaccia bread and hot coffee. Perfect service."
+    feedback: "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
 ];
 

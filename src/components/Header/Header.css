@@ -68,7 +68,6 @@
 @media (max-width: 768px) {
     .header {
         align-items: flex-start;
-        margin-left: 16px;
         margin-top: -40px;
     }
 

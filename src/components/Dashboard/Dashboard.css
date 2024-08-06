@@ -235,7 +235,6 @@
 
  }
 
- /* 2nd line right */
  .custom-list {
      list-style: none;
      padding: 0;
@@ -320,7 +319,7 @@
      font-size: 1.5rem;
      color: #999;
  }
- /* 2nd line right */
+
  .feedback-container {
      padding: 20px;
      border-radius: 8px;

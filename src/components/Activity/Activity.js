@@ -14,7 +14,6 @@ const Activity = () => {
         </div>
       </div>
       <img src="/image/graph.png" alt="graph" />
-
     </>
   )
 }
